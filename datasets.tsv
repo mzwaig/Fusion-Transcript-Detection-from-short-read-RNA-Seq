@@ -1,0 +1,2 @@
+Sample	STAR-Fusion	Arriba	InFusion	InFusion_stringent
+JPA_6	data/star-fusion.fusion_predictions.abridged.coding_effect.tsv	data/fusions.tsv	data/gene-gene.fusions.detailed.tsv	data/fusions.detailed.txt
